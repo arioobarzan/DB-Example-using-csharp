@@ -1,0 +1,12 @@
+C:\Users\gheir\source\repos\DB_Example\DB_Example\bin\Debug\Database2.mdf
+C:\Users\gheir\source\repos\DB_Example\DB_Example\bin\Debug\Database2_log.ldf
+C:\Users\gheir\source\repos\DB_Example\DB_Example\bin\Debug\DB_Example.exe.config
+C:\Users\gheir\source\repos\DB_Example\DB_Example\bin\Debug\DB_Example.exe
+C:\Users\gheir\source\repos\DB_Example\DB_Example\bin\Debug\DB_Example.pdb
+C:\Users\gheir\source\repos\DB_Example\DB_Example\obj\Debug\DB_Example.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\DB_Example\DB_Example\obj\Debug\DB_Example.Form1.resources
+C:\Users\gheir\source\repos\DB_Example\DB_Example\obj\Debug\DB_Example.Properties.Resources.resources
+C:\Users\gheir\source\repos\DB_Example\DB_Example\obj\Debug\DB_Example.csproj.GenerateResource.cache
+C:\Users\gheir\source\repos\DB_Example\DB_Example\obj\Debug\DB_Example.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\DB_Example\DB_Example\obj\Debug\DB_Example.exe
+C:\Users\gheir\source\repos\DB_Example\DB_Example\obj\Debug\DB_Example.pdb
